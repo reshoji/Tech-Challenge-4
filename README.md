@@ -32,20 +32,14 @@ ferramentas que são necessárias.
 • Faça um MVP do seu modelo em produção utilizando o Streamlit.
 
 ## Desenvolvimento
-Os dados do preço de petróleo Brent foram pegos do site:
+Os dados do preço de petróleo Brent foram pegos do site do [ipea](http://www.ipeadata.gov.br/ExibeSerie.aspx?module=m&serid=1650971490&oper=view)
 
-http://www.ipeadata.gov.br/ExibeSerie.aspx?module=m&serid=1650971490&oper=view
-
-Também foi utilizado dados extor do PIB mundial, população mundial, produção e consumo de petróleo do Banco Mundial (World Bank) e Energy Information Administration (EIA):
-
-https://databank.worldbank.org/source/world-development-indicators
-
-https://www.eia.gov/
+Também foi utilizado dados extor do PIB mundial, população mundial, produção e consumo de petróleo do [Banco Mundial (World Bank)](https://databank.worldbank.org/source/world-development-indicators) e [Energy Information Administration (EIA)](https://www.eia.gov/)
 
 Os dados foram tratados no Google Collab, exportados em xlsx para alimentar o Data Viz no Power BI. Para o modelo, foi exportado do collab o modelo Prophet em pkl e utilizado no vs code para subir a aplicação em Streamlit. Após a aplicação pronta, foi feito o deploy no site do Streamlit vinculado ao github.
 
 O dashboard está em pdf e pbix.
 
-Github: https://github.com/reshoji/Tech-Challenge-4/blob/main/App_Streamlit.py
+Link [Github](https://github.com/reshoji/Tech-Challenge-4/blob/main/App_Streamlit.py)
 
-A aplicação do Stremlit está no seguinte link: https://appapppy-nvtwsc6f5qvmtohv9gumbc.streamlit.app/
+A aplicação do Stremlit está no seguinte [link](https://appapppy-nvtwsc6f5qvmtohv9gumbc.streamlit.app/)
