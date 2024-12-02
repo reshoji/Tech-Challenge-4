@@ -44,7 +44,7 @@ https://www.eia.gov/
 
 Os dados foram tratados no Google Collab, exportados em xlsx para alimentar o Data Viz no Power BI. Para o modelo, foi exportado do collab o modelo Prophet em pkl e utilizado no vs code para subir a aplicação em Streamlit. Após a aplicação pronta, foi feito o deploy no site do Streamlit vinculado ao github.
 
-O dashboard está dentro do arquivo .zip em pdf e pbix
+O dashboard está em pdf e pbix.
 
 Github: https://github.com/reshoji/Tech-Challenge-4/blob/main/App_Streamlit.py
 
