@@ -34,7 +34,7 @@ ferramentas que são necessárias.
 ## Desenvolvimento
 Os dados do preço de petróleo Brent foram pegos do site do [ipea](http://www.ipeadata.gov.br/ExibeSerie.aspx?module=m&serid=1650971490&oper=view)
 
-Também foi utilizado dados extor do PIB mundial, população mundial, produção e consumo de petróleo do [Banco Mundial (World Bank)](https://databank.worldbank.org/source/world-development-indicators) e [Energy Information Administration (EIA)](https://www.eia.gov/)
+Também foi utilizado dados externos do PIB mundial, população mundial, produção e consumo de petróleo do [Banco Mundial (World Bank)](https://databank.worldbank.org/source/world-development-indicators) e [Energy Information Administration (EIA)](https://www.eia.gov/)
 
 Os dados foram tratados no Google Collab, exportados em xlsx para alimentar o Data Viz no Power BI. Para o modelo, foi exportado do collab o modelo Prophet em pkl e utilizado no vs code para subir a aplicação em Streamlit. Após a aplicação pronta, foi feito o deploy no site do Streamlit vinculado ao github.
 
