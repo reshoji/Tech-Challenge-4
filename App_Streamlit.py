@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 from prophet.plot import plot_plotly
 
-model = joblib.load('modelo\modelo_prophet.pkl')
+model = joblib.load('modelo_prophet.pkl')
 
 st.title("Previsão do Preço do Petróleo Brent")
 
